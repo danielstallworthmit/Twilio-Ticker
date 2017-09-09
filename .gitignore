@@ -1,0 +1,3 @@
+twilio-ticker-env
+*.pyc
+appenv.py
